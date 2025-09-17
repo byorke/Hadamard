@@ -12,8 +12,8 @@ An interactive version of the quantitative analysis vector checking tool can be 
 
 This tool allows you to:
 - Determine which size matrix can be used for a given number of samples.
-- How many samples should be used.
-- Which samples should be added to each pool.
+- Find out how many samples should be used.
+- Decide which samples should be added to each pool.
 
 You can also:
 - Input an analysis vector and determine which (if any) samples are positive.
