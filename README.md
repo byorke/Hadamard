@@ -1,14 +1,14 @@
 This repository contains python notebooks:
 
 1. Hadamard S matrix generation script
-2. Simple Analysis vector checking tool (HadamardPoolingAnalaysisChecking.ipynb)
-3. Analysis vector checking tool for type 1 and type 2 matrices
-4. 
+2. Quantitative Analysis vector checking tool to identify positive samples (HadamardPoolingAnalaysisChecking.ipynb)
+3. Analysis vector checking tool for fluorescent probes (widgetA.ipynb).
+4. Analysis vector checking tool for type 1 and type 2 matrices (wigetB.ipynb)
 
-An interactive version of the analysis vector checking tool can be accessed using the button below
+
+An interactive version of the quantitative analysis vector checking tool can be accessed using the button below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byorke/Hadamard/HEAD?labpath=HadamardPoolingAnalaysisChecking.ipynb)
-
 
 
 # Dependencies:
