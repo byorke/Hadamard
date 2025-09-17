@@ -1,6 +1,6 @@
 This repository contains python notebooks:
 
-1. Hadamard S matrix generation script
+1. Hadamard S matrix generation script (Hadamard-Matrix-Generation.ipynb)
 2. Quantitative Analysis vector checking tool to identify positive samples (HadamardPoolingAnalysisChecking.ipynb)
 3. Analysis vector checking tool for fluorescent probes (widgetA.ipynb).
 4. Analysis vector checking tool for type 1 and type 2 matrices (widgetB.ipynb)
