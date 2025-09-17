@@ -23,5 +23,5 @@ pip install numpy ipywidgets jupyterlab
 ## Or with conda
 conda install numpy ipywidgets jupyterlab -c conda-forge
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byorke/Hadamard/HEAD?labpath=WidgetB_clean.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byorke/Hadamard/HEAD?labpath=HadamardPoolingAnalaysisChecking.ipynb)
 
