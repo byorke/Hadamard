@@ -17,8 +17,8 @@ Optional:
 
 - matplotlib
 
-# Using pip
+## Using pip
 pip install numpy ipywidgets jupyterlab
 
-# Or with conda
+## Or with conda
 conda install numpy ipywidgets jupyterlab -c conda-forge
