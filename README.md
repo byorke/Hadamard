@@ -31,7 +31,7 @@ pip install numpy ipywidgets jupyterlab
 ## Or with conda
 conda install numpy ipywidgets jupyterlab -c conda-forge
 
-##Publication
+## Publication
 
 Multiplex Detection of Viruses using Hadamard Matrices. G. S. Beddard & B. Yorke
 
