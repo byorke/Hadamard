@@ -1,7 +1,12 @@
 This repository contains python notebooks:
 
 1. Hadamard S matrix generation script and row selection for type-2 reduced S matrices
-2. Analysis vector checking tool
+2. Analysis vector checking tool (HadamardPoolingAnalaysisChecking.ipynb)
+
+An interactive version of the analysis vector checking tool can be accessed using the button below
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byorke/Hadamard/HEAD?labpath=HadamardPoolingAnalaysisChecking.ipynb)
+
 
 # Dependencies:
 
@@ -22,6 +27,3 @@ pip install numpy ipywidgets jupyterlab
 
 ## Or with conda
 conda install numpy ipywidgets jupyterlab -c conda-forge
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byorke/Hadamard/HEAD?labpath=HadamardPoolingAnalaysisChecking.ipynb)
-
