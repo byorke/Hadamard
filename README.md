@@ -7,6 +7,11 @@ An interactive version of the analysis vector checking tool can be accessed usin
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byorke/Hadamard/HEAD?labpath=HadamardPoolingAnalaysisChecking.ipynb)
 
+The Matrix generation code can be launched using the button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/byorke/Hadamard/HEAD?labpath=Hadamard-Matrix-Generation.ipynb)
+Hadamard-Matrix-Generation.ipynb
+
 
 # Dependencies:
 
